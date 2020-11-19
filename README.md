@@ -1,2 +1,2 @@
 # Financial-Sentiment-Analysis
-Stocks tweets sentiment analysis
+Stock tweets sentiment analysis
